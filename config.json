@@ -1,4 +1,4 @@
 {
-  "api_base": "https://fluxtools.fps.ms",
+  "api_base": "https://banana.fps.ms:10678",
   "product": "token-checker"
 }
